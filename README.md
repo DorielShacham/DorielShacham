@@ -16,7 +16,5 @@ I'm Doriel from Israel, and I do Tests & Development. I really enjoy learning la
 ## Load Testing
 
 <img src="https://github.com/DorielShacham/DorielShacham/blob/main/giphy.gif?raw=true" width="256" />
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DorielShacham)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DorielShacham&show_icons=true)
