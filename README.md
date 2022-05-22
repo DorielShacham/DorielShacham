@@ -9,9 +9,7 @@ I'm Doriel from Israel, and I do Tests & Development. I really enjoy learning la
 * Python
 * HTML, CSS
 
-
-- 🔭 I’m currently working on Automation Tests 
-- 📫 How to reach me: My Email -> DorielShacham@gmail.com 
+##Examples of Work
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DorielShacham)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/DorielShacham/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UC8ZK3Tr3nx7PMFp8pVWDMUw)  
