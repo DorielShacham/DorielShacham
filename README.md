@@ -1,4 +1,5 @@
 ![Quality Assurance Engineer](https://media-exp1.licdn.com/dms/image/C4D22AQEZgIpqIBFuZQ/feedshare-shrink_800/0/1653256796735?e=1655942400&v=beta&t=EfA20Kj6VOoVFHbohYWTtZ_00NJeUpmCDf4ZM9i_c0c)
+![Profile views](https://gpvc.arturio.dev/DorielShacham)
 
 # I'm Doriel Shacham
 I'm Doriel from Israel, and I do Tests & Development. I really enjoy learning languages and frameworks like Python and Java. I also enjoy UI, UX design in general.
@@ -9,7 +10,7 @@ I'm Doriel from Israel, and I do Tests & Development. I really enjoy learning la
 * Python
 * HTML, CSS
 
-##Load Testing
+## Load Testing
 
 <img src="https://github.com/DorielShacham/DorielShacham/blob/main/giphy.gif?raw=true" width="256" />
 
@@ -17,8 +18,4 @@ I'm Doriel from Israel, and I do Tests & Development. I really enjoy learning la
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DorielShacham)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DorielShacham&show_icons=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DorielShacham)  
-
-![Profile views](https://gpvc.arturio.dev/DorielShacham)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DorielShacham&show_icons=true)
