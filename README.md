@@ -9,7 +9,6 @@ I'm Doriel from Israel, and I do Tests & Development. I really enjoy learning la
 * Python
 * HTML, CSS
 
-Skills: SQL / Java / Python / HTML / CSS
 
 - 🔭 I’m currently working on Automation Tests 
 - 📫 How to reach me: My Email -> DorielShacham@gmail.com 
