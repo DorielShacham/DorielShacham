@@ -10,10 +10,10 @@ https://drive.google.com/drive/u/0/folders/1ss5sP-M7r3ZgTqpMLveQrXLaNw-MNs97
 I'm Doriel from Israel, and I do Tests & Development. I really enjoy learning languages and frameworks like Python and Java. I also enjoy UI, UX design in general.
 
 ## Skills and Experience 
-* SQL
-* Java
 * Python
-* HTML, CSS
+* HTML
+* CSS
+* JavaScript
 
 ## Load Testing
 
