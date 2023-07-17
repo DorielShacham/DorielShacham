@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **WebdriverIO framework**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DorielShacham](https://github.com/DorielShacham)
+- 👨‍💻 All of my projects are available at [https://github.com/DorielShacham](https://github.com/DorielShacham?tab=repositories)
 
 - 📫 How to reach me **dorielshacham@gmail.com**
 
