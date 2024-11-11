@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Doriel Shacham</h1>
-<h3 align="center">I'm a passionate QA Engineer</h3>
+<h3 align="center">I'm a QA Engineer With Website & mobile application creation experience</h3>
 
 - 🌱 I’m currently learning **React Native**
 
